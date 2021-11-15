@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -20,3 +19,4 @@ I am simply amyzing, so be careful. If you are friends with me long enough, you 
  HELLO World!!!
 </body>
 </html>
+<p> This is a <em>great</em> day</p>
