@@ -16,7 +16,7 @@
 </head>
 
 <body>
- <! I am simply amyzing, so be careful. If you are friends with me long enough, you might one day be awesome too. Wait, you can only be aweso without me.>
+I am simply amyzing, so be careful. If you are friends with me long enough, you might one day be awesome too. Wait, you can only be "aweso" without "me"
  HELLO World!!!
 </body>
 </html>
