@@ -1,3 +1,4 @@
+<title><em>AWESOME DAY</em></title>
 <html lang="en">
 <head>
   <meta charset="utf-8">
