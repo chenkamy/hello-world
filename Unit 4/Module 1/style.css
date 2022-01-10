@@ -5,28 +5,28 @@ html{
 	background-color: yellow;
  
 #p1{
-  font-size:2.3em;
+  font-size:2rem;
 }
 
 #p2{
-  border: .7rem;
+  font-size: .7rem;
 }
 
 #P3{
-  sont-size:1rem
+  font-size:1rem
 } 
 
 p4{
-  border: 2.75rem;
+  font-size: 2.75rem;
 }
 
 #p5{
-  font-size:3em;
+  font-size:3rem;
 }
 
 
 .box{
-  background: yellow;
+  background-color: yellow;
   height 30vh;
   width: 50vh;
 }
