@@ -4,15 +4,15 @@ html{
 #body{
 	background-color: yellow;
  
-#p1{
+p1{
   font-size:2rem;
 }
 
-#p2{
+p2{
   font-size: .7rem;
 }
 
-#P3{
+P3{
   font-size:1rem
 } 
 
@@ -20,7 +20,7 @@ p4{
   font-size: 2.75rem;
 }
 
-#p5{
+p5{
   font-size:3rem;
 }
 
