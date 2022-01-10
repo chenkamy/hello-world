@@ -1,4 +1,4 @@
-*/ html{
+html{
  
 }
 
@@ -7,7 +7,7 @@ p{
 }
 
 p{
-  border: .7rem green solid;
+  border: .7rem box green solid;
 }
 
 P{
@@ -15,12 +15,13 @@ P{
 } 
 
 p{
-  border: 2.75rem black solid;
+  border: 2.75rem box black solid;
 }
 
 p{
   font-size:3em;
-} */
+}
+
 
 .box{
   background: yellow;
