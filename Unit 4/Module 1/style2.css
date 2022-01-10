@@ -1,0 +1,23 @@
+#header{
+  sont-size:4rem
+	background-color: red;
+}
+
+#nav{
+  font-size:.7rem
+	background-color: blue;
+}
+
+#body{
+  font-size:1.75rem
+	background-color: yellow;
+}
+
+#footer{
+  font-size:3rem
+	background-color: green;
+}
+
+.orange{
+	color: orange;
+}
