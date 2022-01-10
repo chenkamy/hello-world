@@ -7,7 +7,7 @@ p{
 }
 
 p{
-  border: .7rem box green solid;
+  border: .7rem;
 }
 
 P{
@@ -15,7 +15,7 @@ P{
 } 
 
 p{
-  border: 2.75rem box black solid;
+  border: 2.75rem;
 }
 
 p{
