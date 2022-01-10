@@ -1,0 +1,32 @@
+*/ html{
+ 
+}
+
+.box{
+  font-size:30px
+}
+p{
+  font-size:2.3em;
+}
+
+p{
+  border: .7rem green solid;
+}
+
+P{
+  sont-size:1rem
+} 
+
+p{
+  border: 2.75rem black solid;
+}
+
+p{
+  font-size:3em;
+} */
+
+.box{
+  background: yellow;
+  height 30vh;
+  width: 50vh;
+}
