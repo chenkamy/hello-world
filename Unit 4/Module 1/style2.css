@@ -1,20 +1,20 @@
 #header{
-  sont-size:4rem
+  sont-size:4rem;
 	background-color: red;
 }
 
 #nav{
-  font-size:.7rem
+  font-size:.7rem;
 	background-color: blue;
 }
 
 #body{
-  font-size:1.75rem
+  font-size:1.75rem;
 	background-color: yellow;
 }
 
 #footer{
-  font-size:3rem
+  font-size:3rem;
 	background-color: green;
 }
 
