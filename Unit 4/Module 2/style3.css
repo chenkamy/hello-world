@@ -14,12 +14,12 @@ body{
 }
 
 .hsl{
-  color: hsl(290, 100%, 50%):
+  color: hsl(290, 100%, 50%);
     
 }
 
 .hsla{
-  color: hsla(0, 100%, 75%, 0):
+  color: hsla(0, 100%, 75%, 0);
     
 }
 
